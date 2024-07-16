@@ -1,1 +1,4 @@
-IT works.
+<html>
+  <head>tanishi.net</head>
+  <body>It works.</body>
+</html>
